@@ -461,5 +461,5 @@ For questions and discussions, visit the [Discussions](https://github.com/ashhar
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/ashharfarooqui">Ashhaar Farooqui</a>
+  Made with ❤️ by <a href="https://github.com/ashharfarooqui">Ashhar Farooqui</a>
 </p>
